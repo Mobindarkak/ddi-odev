@@ -1,6 +1,4 @@
-# ddi-odev
-
-# markaTahmin-ddi
+# Olumlu - Olumsuz Yorum
 
 ### Projeyi Hazırlayanlar;
 Mobin DARKAK 213405523
