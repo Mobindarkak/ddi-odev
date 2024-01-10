@@ -46,6 +46,3 @@ Decision Tree metoduyla modelimiz eğitilmiştir. Modeli eğitmek için sklearn 
 ##### Modelin Başarısının Hesaplanması
 Hesaplama aşağıdaki görseldedir  
 ![Model Başarısı](https://github.com/Mobindarkak/ddi-odev/blob/main/images/Ekran%20görüntüsü%202024-01-10%20183945.png)  
-
-### SONUÇ
-Özetle yaptığımız projede seçilen modelin ne kadar önemli olduğu görülmektedir. Başlangıçta test edilmiş olan Naive Bayes modelinin bu veri seti için Decision Tree modeline göre uygunluğu daha azdır. Ancak model seçiminin önemi kadar veri setinin de güzel bir şekilde hazırlanmış olması, güzel temizlenmesi, veri setindeki veri miktarı, veri setinin dengesiz olup olmaması, eğitim-test setinin parçalanma oranı vb. faktörler modelin başarısına etki edildiği anlaşılmıştır.
